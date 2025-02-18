@@ -56,12 +56,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlexandeeerDev/AlexandeeerDev/output/snake.svg" alt="Snake animation" />
+<img align="right" height="200" src="https://www.shutterstock.com/image-vector/triangle-logo-luxury-letter-600nw-1629379012.jpg"  />
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://www.shutterstock.com/image-vector/triangle-logo-luxury-letter-600nw-1629379012.jpg"  />
+<img src="https://raw.githubusercontent.com/AlexandeeerDev/AlexandeeerDev/output/snake.svg" alt="Snake animation" />
 
 ###
