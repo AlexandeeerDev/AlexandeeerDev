@@ -6,60 +6,49 @@
 
 <br clear="both">
 
-<p align="center">Me especializo en desarrollo de software, ciberseguridad y análisis de datos. Actualmente, trabajo en múltiples proyectos relacionados con estas áreas, enfocándome en encontrar soluciones a diversas areas. Siempre estoy aprendiendo y explorando nuevas tecnologías. ¡Conectemos!</p>
+<p align="center">
+I specialize in software development, cybersecurity, and data analysis.  
+Currently, I'm working on multiple projects related to these fields,  
+focusing on finding solutions across various areas.  
+I'm always learning and exploring new technologies. Let's connect!
+</p>
 
-###
+<h2 align="center">💻 Tech Stack:</h2>
 
-<br clear="both">
+<p align="center">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-</div>
+<h2 align="center">📊 GitHub Stats:</h2>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandeeerDev&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandeeerDev&theme=github_dark_dimmed&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandeeerDev&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
 
-<br clear="both">
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandeeerDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandeeerDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AlexandeeerDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexandeeerDev&theme=nord&no-frame=true&no-bg=false&margin-w=4"/>
+</p>
 
-###
+<h2 align="center">✍️ Random Dev Quote</h2>
 
-<img align="right" height="200" src="https://www.shutterstock.com/image-vector/triangle-logo-luxury-letter-600nw-1629379012.jpg"  />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
-###
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
-<img src="https://raw.githubusercontent.com/AlexandeeerDev/AlexandeeerDev/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AlexandeeerDev&limit=5&theme=nord&combine_all_yearly_contributions=true"/>
+</p>
