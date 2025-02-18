@@ -1,11 +1,7 @@
 <br clear="both">
 
 <h1 align="center">👋 Hello, world! I'm Alexander, an Informatic Engineer.</h1>
-
-###
-
 <br clear="both">
-
 <p align="center">
 I specialize in software development, cybersecurity, and data analysis.  
 Currently, I'm working on multiple projects related to these fields,  
