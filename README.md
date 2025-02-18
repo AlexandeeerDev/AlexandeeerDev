@@ -30,14 +30,15 @@ I'm always learning and exploring new technologies. Let's connect!
   <img src="https://github-profile-trophy.vercel.app/?username=AlexandeeerDev&theme=nord&no-frame=true&no-bg=false&margin-w=4"/>
 </p>
 
+<h2 align="center">🔝 Top Contributed Repo</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AlexandeeerDev&limit=5&theme=nord&combine_all_yearly_contributions=true"/>
+</p>
+
 <h2 align="center">✍️ Random Dev Quote</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AlexandeeerDev&limit=5&theme=nord&combine_all_yearly_contributions=true"/>
-</p>
